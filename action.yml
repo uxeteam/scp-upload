@@ -1,5 +1,5 @@
 name: 'SCP Upload'
-author: 'Eduardo Betanzos'
+author: 'UXE Team'
 description: 'Upload files using SCP'
 inputs:
   source:

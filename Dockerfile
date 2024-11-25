@@ -1,6 +1,6 @@
 FROM alpine:3.12
 
-LABEL maintainer="Eduardo Betanzos <ebetanzos@hotmail.es>"
+LABEL maintainer="UXE Team <cloud@uxe.app>"
 
 RUN apk add --no-cache bash openssh-client
 
